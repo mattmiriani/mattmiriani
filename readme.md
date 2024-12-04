@@ -1,7 +1,7 @@
 
 # Matheus Miriani
 
-Backend Developer
+Fullstack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Miriani-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/mattmiriani/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusmiriani@hotmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:matheusmiriani@hotmail.com)
